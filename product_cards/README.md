@@ -8,6 +8,6 @@
 + Изображение
 
 https://www.glassesshop.com/
-![](https://github.com/ClubfootBear/Scrapy_Portfolio/blob/master/product_cards/images/2020-06-07_12-54-09.png)
+![](/images/2020-06-07_12-54-09.png)
 
-![](https://github.com/ClubfootBear/Scrapy_Portfolio/blob/master/product_cards/images/2020-06-07_12-55-14.png)
+![alt](/images/2020-06-07_12-55-14.png)
