@@ -13,4 +13,3 @@ https://www.glassesshop.com/
 
 ![alt](/images/2020-06-07_12-55-14.png)
 
-![testiccck](/images/2020-06-07_14-24-43.png)
