@@ -13,3 +13,7 @@ https://www.glassesshop.com/
 
 ![alt](/images/2020-06-07_12-55-14.png)
 
+Пример получаемых данных
++ [glasses.json](/images/glasses.json)
++ [glasses.csv](/images/glasses.csv)
+
